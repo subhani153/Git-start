@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello git world-iam
+=======
+hello git world-i
+>>>>>>> origin/master
