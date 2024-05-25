@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Test new branch-fot dev1
+=======
+Test new branch
+>>>>>>> origin/master
